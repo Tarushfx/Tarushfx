@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 
 
 
-[![Tarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarushfx)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarushfx&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarushfx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Tarushfx/Tarushfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
