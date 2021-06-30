@@ -2,25 +2,22 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tarushfx&count_private=true&show_icons=true&theme=prussian" height="200px" align="right">
 
-</br>
 
 ## Connect with me:
 
 [Linkedin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="20px" align="center">
-
-</br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="20px" align="top">
 
 </br>
 </br>
 
 ## Languages I speak:
 
-&ensp; JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="20px" align="center"> &ensp;&nbsp;&nbsp;&nbsp;&nbsp; Python <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="20px" align="center"> &ensp; &nbsp;&nbsp;&nbsp;&nbsp;CPP <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" height="20px" align="center">
+&ensp; JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="20px" align="top"> &ensp;&nbsp;&nbsp;&nbsp;&nbsp; Python <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="20px" align="top"> &ensp; &nbsp;&nbsp;&nbsp;&nbsp;CPP <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" height="20px" align="top">
+</br>
+</br>
 
-</br>
-<img src="./Ihatejs.png" width="230px" align="right">
-</br>
+<img src="./Ihatejs.png" width="270px" align="right">
 
 | <h2>Frameworks I use </h2>                                                                                                                                                                                                                                                                                                                                                                                                                                                 | <h2>Other Skills</h2>                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,13 +34,11 @@
 
 </div> -->
 </br>
-</br>
-</br>
 
-## Connect with me for real :) :
+## Connect with me for real 🙂 :
 
 [Linkedin](www.linkedin.com/in/tarush-bajaj-564376198)
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="20px" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" height="20px" align="top">
 
 <!-- [![Tarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarushfx&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarushfx&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
