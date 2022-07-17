@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tarushfx&count_private=true&show_icons=true&theme=prussian" height="200px" align="right">
 
-I am a 19 y/o sophomore, pursuing B.Tech in Computer Science and Artificial Intelligence at [Netaji Subhas University of Technology](http://www.nsit.ac.in/). 
+I am a 20 y/o senior, pursuing B.Tech in Computer Science and Artificial Intelligence at [Netaji Subhas University of Technology](http://www.nsit.ac.in/). 
 
 Expected 2023.
 
