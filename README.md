@@ -42,8 +42,8 @@ Expected 2023.
 <a href="https://leeetcode.com/Tarushfx">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06"/></a>
 
-<img width="51%" align="right" src="https://leetcard.jacoblin.cool/tarushfx?theme=unicorn&font=Noto%20Sans%20Display&ext=heatmap" />
-<img width="31.7%" align="left" src="./Ihatejs.png" />
+<img width="51%" align="right" src="https://leetcard.jacoblin.cool/tarushfx?theme=unicorn&font=Noto%20Sans%20Display&ext=contest" />
+<img width="40%" align="left" src="./Ihatejs.png" />
 </br>
 
 <div align="left">
